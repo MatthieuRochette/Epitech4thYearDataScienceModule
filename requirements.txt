@@ -1,1 +1,3 @@
-hvplot
+plotly
+statsmodels
+streamlit
