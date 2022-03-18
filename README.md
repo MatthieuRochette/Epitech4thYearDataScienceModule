@@ -6,5 +6,5 @@ https://deepnote.com/@Data-Science-Epitech-M-TRC-839/Recipe-to-the-perfect-video
 
 ### Authors:
 - Alexandre Guichet
-- Matthieu Rochette
+- [Matthieu Rochette](https://github.com/MatthieuRochette)
 - Raphaël Hoareau
