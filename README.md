@@ -3,3 +3,8 @@
 
 See the published article [on Deepnote](
 https://deepnote.com/@Data-Science-Epitech-M-TRC-839/Recipe-to-the-perfect-video-game-Kp7Hrko_RFSKMXZfAwVzrA).
+
+### Authors:
+- Alexandre Guichet
+- Matthieu Rochette
+- Raphaël Hoareau
